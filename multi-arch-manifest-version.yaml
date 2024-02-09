@@ -1,0 +1,11 @@
+image: 11notes/hashicorp-vault:1.15.5
+manifests:
+  - image: 11notes/hashicorp-vault:amd64-1.15.5
+    platform:
+      architecture: amd64
+      os: linux
+  - image: 11notes/hashicorp-vault:arm64v8-1.15.5
+    platform:
+      architecture: arm64
+      os: linux
+      variant: v8
