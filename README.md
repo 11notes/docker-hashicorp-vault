@@ -1,7 +1,7 @@
 ![Banner](https://github.com/11notes/defaults/blob/main/static/img/banner.png?raw=true)
 
 # 🏔️ Alpine - HashiCorp Vault
-![size](https://img.shields.io/docker/image-size/11notes/hashicorp-vault/1.15.6?color=0eb305) ![version](https://img.shields.io/docker/v/11notes/hashicorp-vault/1.15.6?color=eb7a09) ![pulls](https://img.shields.io/docker/pulls/11notes/hashicorp-vault?color=2b75d6) ![activity](https://img.shields.io/github/commit-activity/m/11notes/docker-hashicorp-vault?color=c91cb8) ![commit-last](https://img.shields.io/github/last-commit/11notes/docker-hashicorp-vault?color=c91cb8) ![stars](https://img.shields.io/docker/stars/11notes/hashicorp-vault?color=e6a50e)
+![size](https://img.shields.io/docker/image-size/11notes/hashicorp-vault/1.15.5?color=0eb305) ![version](https://img.shields.io/docker/v/11notes/hashicorp-vault/1.15.5?color=eb7a09) ![pulls](https://img.shields.io/docker/pulls/11notes/hashicorp-vault?color=2b75d6) ![activity](https://img.shields.io/github/commit-activity/m/11notes/docker-hashicorp-vault?color=c91cb8) ![commit-last](https://img.shields.io/github/last-commit/11notes/docker-hashicorp-vault?color=c91cb8) ![stars](https://img.shields.io/docker/stars/11notes/hashicorp-vault?color=e6a50e)
 
 **Run HashiCorp Vault in the most secure way**
 

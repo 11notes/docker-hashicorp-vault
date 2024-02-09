@@ -11,7 +11,7 @@
 
 # :: Build
   FROM golang:1.21-alpine3.19 as build
-  ENV BUILD_VERSION=v1.15.6
+  ENV BUILD_VERSION=v1.15.5
   ENV BUILD_DIR=/go/vault
 
   RUN set -ex; \
